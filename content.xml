@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401191738S528GE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401191738YQ460M</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LA POESÍA ESTÁ EN EL AIRE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Iván Marín Barba</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA para conmemorar el Día de la Poesía</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775041663334</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La poesía está en el aire</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La poesía está en el aire</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La poesía está en el aire</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odePageId>
+      <odeBlockId>block-1775042023282-3kwv3ude6</odeBlockId>
+      <blockName>&quot;Podrá nublarse el sol eternamente,
+podrá secarse en un instante el mar;
+pero la poesía, leve como el viento,
+flota y respira, siempre en el aire estará&quot;.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odePageId>
+          <odeBlockId>block-1775042023282-3kwv3ude6</odeBlockId>
+          <odeIdeviceId>idevice-1775042023282-qfc17uuls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/6672293.jpg" width="673" height="673" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775042023282-qfc17uuls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/6672293.jpg\" width=\"673\" height=\"673\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775041824309-gy7y1yzdz</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Introducción general</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción general</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción general</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775041824309-gy7y1yzdz</odePageId>
+      <odeBlockId>block-1775041854813-au6nznieq</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775041824309-gy7y1yzdz</odePageId>
+          <odeBlockId>block-1775041854813-au6nznieq</odeBlockId>
+          <odeIdeviceId>idevice-1775041854812-0eie809vl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Centro de interés/temática</strong></p>
+<p>Esta propuesta está basada en la poesía como forma de expresión literaria. Para ello, aprovecharemos una efeméride, el Día Mundial de la Poesía, para acercar este género al alumnado de una forma más dinámica.</p>
+<p>Con frecuencia, el alumnado percibe la poesía como algo lejano o difícil, por lo que la idea es trabajarla desde un enfoque más participativo. Para ello, combinaremos el uso de herramientas digitales con una actividad lúdica en el centro educativo.</p>
+<p>El alumnado seleccionará diferentes poemas de autores/as conocidos, los trabajará en grupo y posteriormente participará en una yincana poética en la que tendrán que recoger los poemas que se lancen por la ventana, identificar su temática y ordenarlos correctamente.</p>
+<p>La actividad terminará con un pequeño recital, en el que el equipo ganador recitará uno de los poemas y el resto de la clase valorará la interpretación para elegir al ganador final.</p>
+<p><strong>2.     Nivel al que va dirigido</strong></p>
+<p>La actividad está pensada para alumnado de Educación Secundaria Obligatoria, concretamente 2.ºde ESO, dentro de la materia de Lengua Castellana y Literatura.</p>
+<p>En este curso, el alumnado suele tener poco contacto con ese tipo de producciones y es una forma de que las conozcan, aprendan a interpretarlas y manejen herramientas digitales básicas, lo que permite plantear una actividad que combina lectura, análisis, creatividad y expresión oral.</p>
+<p><strong>3.     Temporalización aproximada</strong></p>
+<p>La actividad se desarrollará aproximadamente en dos sesiones de clase.</p>
+<p>En la primera sesión se presentará el proyecto y se explicará brevemente cómo utilizar Canva, aunque es cierto que ya utilizaron ese herramienta en SdA anteriores, ya que el alumnado tendrá que crear tarjetas visuales con poemas seleccionados por ellos mismos, aunque también se dedicará tiempo a buscar poemas y a comentar la temática.</p>
+<p>La segunda sesión se centrará en la realización de la yincana. Los poemas se imprimirán y se tirarán por la ventana de clase. Irán a parar al patio, de forma que los equipos tendrán que recogerlos y clasificarlos según su temática. El equipo que consiga categorizar más poemas, será el ganador. Posteriormente se realizará un pequeño recital en clase. El resto del alumnado actuará como público y decidirá qué persona del equipo ganador que haya realizado la mejor interpretación.</p>
+<p><strong>4.     Materia o materias implicadas</strong></p>
+<p>La materia principal es Lengua Castellana y Literatura.</p>
+<p>Sin embargo, aunque es propia de esa materia, permite trabajar competencias como la competencia digital, la expresión oral o el trabajo cooperativo, ya que el alumnado tendrá que organizarse en equipo para completar las distintas partes de la actividad.</p>
+<p><strong>5.     Idioma</strong></p>
+<p>La actividad se realizará en lengua castellana, tanto en la lectura como en el recital de los poemas seleccionados.</p>
+<p><strong>6.     Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>
+<p>Con esta actividad  queremos que el alumnado se acerque a la poesía de una forma más activa. No se trata solo de leer poemas, sino de buscar los textos, interpretarlos, identificar sus temas y ser capaces de expresarlos oralmente.</p>
+<p>Por lo tanto, a lo largo del proyecto el alumnado tendrá que:</p>
+<p>-Buscar poemas de distintos autores.</p>
+<p>-Identificar la temática principal de cada texto.</p>
+<p>-Crear materiales visuales mediante Canva.</p>
+<p>-Participar en una dinámica cooperativa para clasificar los poemas.</p>
+<p>-Preparar y recitar uno de los textos ante los compañeros, que actuarán de jurado.</p>
+<p>De esa manera se trabaja no solo la lectura literaria, sino también la interpretación de textos, la expresión oral y la creatividad a través de un proyecto que creemos que puede resultar motivador.</p>
+<p>Además, el uso de herramientas digitales permite que el alumnado participe en la creación de los materiales que se utilizarán en la actividad, por lo que indudablemente se sentirá parte del proyecto.</p>
+<p><strong>7.     Justificación basada en la rutina de pensamiento</strong></p>
+<p>El planteamiento de esta actividad parte de algunas de las reflexiones sobre una experiencia anterior en la que utilicé herramientas digitales (Canva) en el aula.</p>
+<p>En esa actividad observé que el uso de herramientas como Canva puede resultar muy motivador para el alumnado, pero también comprobé que cuando no se explican bien al principio pueden aparecer pequeños problemas técnicos que dificultan el desarrollo de la clase, y que los alumnos tienden a preguntar por la solución rápidamente en lugar de intentar solucionar esas dificultades por sí solos. Por ese motivo, en esta propuesta he previsto dedicar un tiempo inicial prudencial a explicar el funcionamiento de la herramienta antes de empezar a trabajar.</p>
+<p>También observé que el alumnado necesita aprender a buscar información de forma más crítica, ya que en ocasiones tiende a copiar contenidos directamente de la red. Por eso, en esta actividad tendrán que seleccionar los poemas y comentar brevemente su temática (y así les costará menos categorizarlos en la yincana), lo que les obligará a leerlos y comprenderlos.</p>
+<p>Como hemos comentado, es crucial que el alumnado aprenda a resolver pequeños problemas técnicos por sí mismo. Durante la actividad se fomentará que los estudiantes se ayuden entre ellos cuando surjan dudas relacionadas con el uso de las herramientas digitales, y recurran a mí lo mínimo posible.</p>
+<p>Por último, la experiencia anterior también me hizo ver que cuando se introducen metodologías más activas o actividades diferentes pueden surgir imprevistos, y que es algo bastante habitual cuando se trabaja con tecnología o con dinámicas más abiertas, como es el caso. En ese sentido, la actividad está pensada para que sea flexible y se pueda adaptar si aparecen dificultades técnicas o de organización.</p>
+<p>Como conclusión, creemos que esta propuesta intenta mantener los aspectos que funcionaron bien en la experiencia anterior (uso de herramientas digitales, creatividad del alumnado y metodologías participativas) y que introduce algunas mejoras a partir de lo aprendido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775041854812-0eie809vl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Centro de interés/temática</strong></p>\n<p>Esta propuesta está basada en la poesía como forma de expresión literaria. Para ello, aprovecharemos una efeméride, el Día Mundial de la Poesía, para acercar este género al alumnado de una forma más dinámica.</p>\n<p>Con frecuencia, el alumnado percibe la poesía como algo lejano o difícil, por lo que la idea es trabajarla desde un enfoque más participativo. Para ello, combinaremos el uso de herramientas digitales con una actividad lúdica en el centro educativo.</p>\n<p>El alumnado seleccionará diferentes poemas de autores/as conocidos, los trabajará en grupo y posteriormente participará en una yincana poética en la que tendrán que recoger los poemas que se lancen por la ventana, identificar su temática y ordenarlos correctamente.</p>\n<p>La actividad terminará con un pequeño recital, en el que el equipo ganador recitará uno de los poemas y el resto de la clase valorará la interpretación para elegir al ganador final.</p>\n<p><strong>2.     Nivel al que va dirigido</strong></p>\n<p>La actividad está pensada para alumnado de Educación Secundaria Obligatoria, concretamente 2.ºde ESO, dentro de la materia de Lengua Castellana y Literatura.</p>\n<p>En este curso, el alumnado suele tener poco contacto con ese tipo de producciones y es una forma de que las conozcan, aprendan a interpretarlas y manejen herramientas digitales básicas, lo que permite plantear una actividad que combina lectura, análisis, creatividad y expresión oral.</p>\n<p><strong>3.     Temporalización aproximada</strong></p>\n<p>La actividad se desarrollará aproximadamente en dos sesiones de clase.</p>\n<p>En la primera sesión se presentará el proyecto y se explicará brevemente cómo utilizar Canva, aunque es cierto que ya utilizaron ese herramienta en SdA anteriores, ya que el alumnado tendrá que crear tarjetas visuales con poemas seleccionados por ellos mismos, aunque también se dedicará tiempo a buscar poemas y a comentar la temática.</p>\n<p>La segunda sesión se centrará en la realización de la yincana. Los poemas se imprimirán y se tirarán por la ventana de clase. Irán a parar al patio, de forma que los equipos tendrán que recogerlos y clasificarlos según su temática. El equipo que consiga categorizar más poemas, será el ganador. Posteriormente se realizará un pequeño recital en clase. El resto del alumnado actuará como público y decidirá qué persona del equipo ganador que haya realizado la mejor interpretación.</p>\n<p><strong>4.     Materia o materias implicadas</strong></p>\n<p>La materia principal es Lengua Castellana y Literatura.</p>\n<p>Sin embargo, aunque es propia de esa materia, permite trabajar competencias como la competencia digital, la expresión oral o el trabajo cooperativo, ya que el alumnado tendrá que organizarse en equipo para completar las distintas partes de la actividad.</p>\n<p><strong>5.     Idioma</strong></p>\n<p>La actividad se realizará en lengua castellana, tanto en la lectura como en el recital de los poemas seleccionados.</p>\n<p><strong>6.     Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>\n<p>Con esta actividad  queremos que el alumnado se acerque a la poesía de una forma más activa. No se trata solo de leer poemas, sino de buscar los textos, interpretarlos, identificar sus temas y ser capaces de expresarlos oralmente.</p>\n<p>Por lo tanto, a lo largo del proyecto el alumnado tendrá que:</p>\n<p>-Buscar poemas de distintos autores.</p>\n<p>-Identificar la temática principal de cada texto.</p>\n<p>-Crear materiales visuales mediante Canva.</p>\n<p>-Participar en una dinámica cooperativa para clasificar los poemas.</p>\n<p>-Preparar y recitar uno de los textos ante los compañeros, que actuarán de jurado.</p>\n<p>De esa manera se trabaja no solo la lectura literaria, sino también la interpretación de textos, la expresión oral y la creatividad a través de un proyecto que creemos que puede resultar motivador.</p>\n<p>Además, el uso de herramientas digitales permite que el alumnado participe en la creación de los materiales que se utilizarán en la actividad, por lo que indudablemente se sentirá parte del proyecto.</p>\n<p><strong>7.     Justificación basada en la rutina de pensamiento</strong></p>\n<p>El planteamiento de esta actividad parte de algunas de las reflexiones sobre una experiencia anterior en la que utilicé herramientas digitales (Canva) en el aula.</p>\n<p>En esa actividad observé que el uso de herramientas como Canva puede resultar muy motivador para el alumnado, pero también comprobé que cuando no se explican bien al principio pueden aparecer pequeños problemas técnicos que dificultan el desarrollo de la clase, y que los alumnos tienden a preguntar por la solución rápidamente en lugar de intentar solucionar esas dificultades por sí solos. Por ese motivo, en esta propuesta he previsto dedicar un tiempo inicial prudencial a explicar el funcionamiento de la herramienta antes de empezar a trabajar.</p>\n<p>También observé que el alumnado necesita aprender a buscar información de forma más crítica, ya que en ocasiones tiende a copiar contenidos directamente de la red. Por eso, en esta actividad tendrán que seleccionar los poemas y comentar brevemente su temática (y así les costará menos categorizarlos en la yincana), lo que les obligará a leerlos y comprenderlos.</p>\n<p>Como hemos comentado, es crucial que el alumnado aprenda a resolver pequeños problemas técnicos por sí mismo. Durante la actividad se fomentará que los estudiantes se ayuden entre ellos cuando surjan dudas relacionadas con el uso de las herramientas digitales, y recurran a mí lo mínimo posible.</p>\n<p>Por último, la experiencia anterior también me hizo ver que cuando se introducen metodologías más activas o actividades diferentes pueden surgir imprevistos, y que es algo bastante habitual cuando se trabaja con tecnología o con dinámicas más abiertas, como es el caso. En ese sentido, la actividad está pensada para que sea flexible y se pueda adaptar si aparecen dificultades técnicas o de organización.</p>\n<p>Como conclusión, creemos que esta propuesta intenta mantener los aspectos que funcionaron bien en la experiencia anterior (uso de herramientas digitales, creatividad del alumnado y metodologías participativas) y que introduce algunas mejoras a partir de lo aprendido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775048451701-15mttq3cn</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: Introducción</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Para los alumn@s: Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775048451701-15mttq3cn</odePageId>
+      <odeBlockId>block-1775048469822-b8iotcfka</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775048451701-15mttq3cn</odePageId>
+          <odeBlockId>block-1775048469822-b8iotcfka</odeBlockId>
+          <odeIdeviceId>idevice-1775048469821-w70s8jw0q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Alguna vez has sentido que una palabra se queda flotando contigo? Que un verso aparece justo cuando lo necesitas...</p>
+<p>En este proyecto vamos a descubrir que la poesía no está solo en los libro, sino que <strong>está en el aire</strong>, en lo que sentimos y en cómo lo compartimos.</p>
+<p>A lo largo de estas sesiones vas a elegir un poema, entenderlo, transformarlo en algo visual y, finalmente, compartirlo con los demás...</p>
+<p>Porque la poesía… también se lanza, se escucha y se vive.</p>
+<p><img src="{{context_path}}/content/resources/6719444.jpg" title="kkl" width="558" height="558" alt="kkl" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775048469821-w70s8jw0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Alguna vez has sentido que una palabra se queda flotando contigo? Que un verso aparece justo cuando lo necesitas...</p>\n<p>En este proyecto vamos a descubrir que la poesía no está solo en los libro, sino que <strong>está en el aire</strong>, en lo que sentimos y en cómo lo compartimos.</p>\n<p>A lo largo de estas sesiones vas a elegir un poema, entenderlo, transformarlo en algo visual y, finalmente, compartirlo con los demás...</p>\n<p>Porque la poesía… también se lanza, se escucha y se vive.</p>\n<p><img src=\"{{context_path}}/content/resources/6719444.jpg\" title=\"kkl\" width=\"558\" height=\"558\" alt=\"kkl\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049073733-fgzjjtm2h</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: ¿En qué consiste este proyecto?</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: ¿En qué consiste este proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Para los alumn@s: ¿En qué consiste este proyecto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049073733-fgzjjtm2h</odePageId>
+      <odeBlockId>block-1775049075797-z09wxwbq4</odeBlockId>
+      <blockName>Tu misión en este proyecto</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049073733-fgzjjtm2h</odePageId>
+          <odeBlockId>block-1775049075797-z09wxwbq4</odeBlockId>
+          <odeIdeviceId>idevice-1775049075796-0jqujqyoo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto vas a convertirte en lector, creador y comunicador.</p>
+<p>Estos son los pasos que seguirás:</p>
+<p>1. Elegirás un poema que te guste.<br />2. Lo leerás y analizarás (qué dice, qué transmite y qué te hace sentir).<br />3. Crearás una presentación visual con Canva.<br />4. Imprimiremos los poemas y… los lanzaremos al aire (luego te cuento cómo).<br />5. Clasificaremos todos los poemas por temas.<br />6. Recitarás tu poema delante del grupo.<br />7. Reflexionarás sobre la experiencia.</p>
+<p>Y recuerda: <strong>No hay una única forma de entender la poesía. Aquí lo importante es lo que tú descubras</strong>...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049075796-0jqujqyoo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto vas a convertirte en lector, creador y comunicador.</p>\n<p>Estos son los pasos que seguirás:</p>\n<p>1. Elegirás un poema que te guste.<br />2. Lo leerás y analizarás (qué dice, qué transmite y qué te hace sentir).<br />3. Crearás una presentación visual con Canva.<br />4. Imprimiremos los poemas y… los lanzaremos al aire (luego te cuento cómo).<br />5. Clasificaremos todos los poemas por temas.<br />6. Recitarás tu poema delante del grupo.<br />7. Reflexionarás sobre la experiencia.</p>\n<p>Y recuerda: <strong>No hay una única forma de entender la poesía. Aquí lo importante es lo que tú descubras</strong>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049250878-uvyzokt6i</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: ¿Qué vas a aprender?</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: ¿Qué vas a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049250878-uvyzokt6i</odePageId>
+      <odeBlockId>block-1775049252995-9rvetp76j</odeBlockId>
+      <blockName>Lo que vas a aprender</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049250878-uvyzokt6i</odePageId>
+          <odeBlockId>block-1775049252995-9rvetp76j</odeBlockId>
+          <odeIdeviceId>idevice-1775049252994-ya3wurh7m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con este proyecto trabajarás diferentes habilidades:</p>
+<p>1. Comprender textos (qué dicen y qué significan).<br />2. Expresar ideas y emociones.<br />3. Hablar en público.<br />4. Usar herramientas digitales como Canva.<br />5. Reflexionar sobre lo que aprendes.<br /></p>
+<p>También aprenderás a:</p>
+<p>1. Buscar información de forma responsable.<br />2. Respetar la autoría de los textos.<br />3. Compartir tus ideas con respeto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049252994-ya3wurh7m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con este proyecto trabajarás diferentes habilidades:</p>\n<p>1. Comprender textos (qué dicen y qué significan).<br />2. Expresar ideas y emociones.<br />3. Hablar en público.<br />4. Usar herramientas digitales como Canva.<br />5. Reflexionar sobre lo que aprendes.<br /></p>\n<p>También aprenderás a:</p>\n<p>1. Buscar información de forma responsable.<br />2. Respetar la autoría de los textos.<br />3. Compartir tus ideas con respeto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049369292-ijud618ii</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: El producto final</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: El producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049369292-ijud618ii</odePageId>
+      <odeBlockId>block-1775049372050-fulo75uoh</odeBlockId>
+      <blockName>¿Qué vas a crear?</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049369292-ijud618ii</odePageId>
+          <odeBlockId>block-1775049372050-fulo75uoh</odeBlockId>
+          <odeIdeviceId>idevice-1775049372048-1r1a1596p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final del proyecto tendrás:</p>
+<p>✔ Una presentación visual de tu poema.<br />✔ Una interpretación personal del texto.<br />✔ Una experiencia de recitado.<br />✔ Una participación en la clasificación colectiva.</p>
+<p>Recuerda que <strong>lo más importante no es el resultado, es todo lo que vas a descubrir por el camino.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049372048-1r1a1596p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final del proyecto tendrás:</p>\n<p>✔ Una presentación visual de tu poema.<br />✔ Una interpretación personal del texto.<br />✔ Una experiencia de recitado.<br />✔ Una participación en la clasificación colectiva.</p>\n<p>Recuerda que <strong>lo más importante no es el resultado, es todo lo que vas a descubrir por el camino.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049478937-tb9qsbdko</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alum@s: 1. Buscamos un poema</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alum@s: 1. Buscamos un poema</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049478937-tb9qsbdko</odePageId>
+      <odeBlockId>block-1775049482008-4gf8caadd</odeBlockId>
+      <blockName>Elige tu poema</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049478937-tb9qsbdko</odePageId>
+          <odeBlockId>block-1775049482008-4gf8caadd</odeBlockId>
+          <odeIdeviceId>idevice-1775049482008-5gucplgme</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Busca un poema que te llame la atención. Puede ser porque:</p>
+<p>- Te gusta cómo suena.<br />- Te identificas con lo que dice.<br />- Te hace pensar o sentir algo.<br /></p>
+<p><strong>Importante:</strong></p>
+<p>- Comprueba quién es el autor.<br />- Asegúrate de que puedes usarlo.<br />- No copies sin entenderlo.<br /></p>
+<p>Consejo: <strong>Si no entiendes un poema a la primera, no te preocupes… vas por buen camino...</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049482008-5gucplgme","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Busca un poema que te llame la atención. Puede ser porque:</p>\n<p>- Te gusta cómo suena.<br />- Te identificas con lo que dice.<br />- Te hace pensar o sentir algo.<br /></p>\n<p><strong>Importante:</strong></p>\n<p>- Comprueba quién es el autor.<br />- Asegúrate de que puedes usarlo.<br />- No copies sin entenderlo.<br /></p>\n<p>Consejo: <strong>Si no entiendes un poema a la primera, no te preocupes… vas por buen camino...</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049580590-xvh8x8oie</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumnos@: 2. Analiza tu poema</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumnos@: 2. Analiza tu poema</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049580590-xvh8x8oie</odePageId>
+      <odeBlockId>block-1775049582285-y84erot3n</odeBlockId>
+      <blockName>Entiende lo que has elegido</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049580590-xvh8x8oie</odePageId>
+          <odeBlockId>block-1775049582285-y84erot3n</odeBlockId>
+          <odeIdeviceId>idevice-1775049582284-l8f1c0yb1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de crear tu presentación, piensa:</p>
+<p>¿De qué trata el poema?<br />¿Qué emociones transmite?<br />¿Qué mensaje crees que tiene?<br /></p>
+<p><strong>No hace falta que aciertes.</strong><br /><strong>Lo importante es que lo argumentes.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049582284-l8f1c0yb1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de crear tu presentación, piensa:</p>\n<p>¿De qué trata el poema?<br />¿Qué emociones transmite?<br />¿Qué mensaje crees que tiene?<br /></p>\n<p><strong>No hace falta que aciertes.</strong><br /><strong>Lo importante es que lo argumentes.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049660097-x525606ox</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: 3. Dale forma a tu poema</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: 3. Dale forma a tu poema</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049660097-x525606ox</odePageId>
+      <odeBlockId>block-1775049661694-qsoumlhdo</odeBlockId>
+      <blockName>Texto multimodal: dar forma visual a tu poema</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049660097-x525606ox</odePageId>
+          <odeBlockId>block-1775049661694-qsoumlhdo</odeBlockId>
+          <odeIdeviceId>idevice-1775049661694-5sxq9nxmm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora vas a transformar tu poema en una presentación visual.</p>
+<p>Ten en cuenta:</p>
+<p>Usa imágenes que tengan sentido con el poema.<br />Cuida los colores y el diseño.<br />No sobrecargues la información.<br />Hazlo claro y estético.<br /></p>
+<p><strong>Muy importante:</strong><br />Respeta los derechos de autor de las imágenes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049661694-5sxq9nxmm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora vas a transformar tu poema en una presentación visual.</p>\n<p>Ten en cuenta:</p>\n<p>Usa imágenes que tengan sentido con el poema.<br />Cuida los colores y el diseño.<br />No sobrecargues la información.<br />Hazlo claro y estético.<br /></p>\n<p><strong>Muy importante:</strong><br />Respeta los derechos de autor de las imágenes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049793427-g2mz93ni6</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: 4. Poemas al aire</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: 4. Poemas al aire</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Para los alumn@s: 4. Poemas al aire</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049793427-g2mz93ni6</odePageId>
+      <odeBlockId>block-1775049795221-10cwzzqgo</odeBlockId>
+      <blockName>Actividad especial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049793427-g2mz93ni6</odePageId>
+          <odeBlockId>block-1775049795221-10cwzzqgo</odeBlockId>
+          <odeIdeviceId>idevice-1775049795220-8wude9jbm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a hacer algo diferente.</p>
+<p>Imprimiremos los poemas y los <strong>lanzaremos al aire</strong>.</p>
+<p>Después:</p>
+<p>Recogeremos los poemas.<br />Los leeremos.<br />Los clasificaremos por temas (ganará el equipo que más poemas consiga y los categorice correctamente).<br />Porque la poesía también se encuentra.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049795220-8wude9jbm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a hacer algo diferente.</p>\n<p>Imprimiremos los poemas y los <strong>lanzaremos al aire</strong>.</p>\n<p>Después:</p>\n<p>Recogeremos los poemas.<br />Los leeremos.<br />Los clasificaremos por temas (ganará el equipo que más poemas consiga y los categorice correctamente).<br />Porque la poesía también se encuentra.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049917081-1z7ymgkvf</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: 5. Recitado</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: 5. Recitado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Para los alumn@s: 5. Recitado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049917081-1z7ymgkvf</odePageId>
+      <odeBlockId>block-1775049918356-hm4plz9i1</odeBlockId>
+      <blockName>Comparte tu poema</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049917081-1z7ymgkvf</odePageId>
+          <odeBlockId>block-1775049918356-hm4plz9i1</odeBlockId>
+          <odeIdeviceId>idevice-1775049918355-lwyafgujr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llegó el momento de recitar.</p>
+<p>No se trata de hacerlo perfecto, sino de:</p>
+<p>- Transmitir<br />- Expresar<br />- Conectar<br />- Puedes apoyarte en tu presentación.</p>
+<p>Respira.<br />Mira al público.<br />Y <strong>deja que el poema hable contigo</strong>...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049918355-lwyafgujr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llegó el momento de recitar.</p>\n<p>No se trata de hacerlo perfecto, sino de:</p>\n<p>- Transmitir<br />- Expresar<br />- Conectar<br />- Puedes apoyarte en tu presentación.</p>\n<p>Respira.<br />Mira al público.<br />Y <strong>deja que el poema hable contigo</strong>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049994257-ap0pikp26</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: 6. Reflexión</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: 6. Reflexión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Para los alumn@s: 6. Reflexión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049994257-ap0pikp26</odePageId>
+      <odeBlockId>block-1775049995779-vrpfx7sp6</odeBlockId>
+      <blockName>Piensa en lo vivido</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049994257-ap0pikp26</odePageId>
+          <odeBlockId>block-1775049995779-vrpfx7sp6</odeBlockId>
+          <odeIdeviceId>idevice-1775049995778-yyxm2c4no</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora toca mirar atrás.</p>
+<p>¿Qué has aprendido?<br />¿Qué te ha sorprendido?<br />¿Qué cambiarías?</p>
+<p><strong>La poesía no siempre se entiende, pero siempre deja algo...</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049995778-yyxm2c4no","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora toca mirar atrás.</p>\n<p>¿Qué has aprendido?<br />¿Qué te ha sorprendido?<br />¿Qué cambiarías?</p>\n<p><strong>La poesía no siempre se entiende, pero siempre deja algo...</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775050076136-g64f85xpl</odePageId>
+  <odeParentPageId>page-1775041824309-gy7y1yzdz</odeParentPageId>
+  <pageName>Para los alumn@s: 7. Profe, ¿esto tiene nota?</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para los alumn@s: 7. Profe, ¿esto tiene nota?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775050076136-g64f85xpl</odePageId>
+      <odeBlockId>block-1775050078499-ft82h89oi</odeBlockId>
+      <blockName>¿Cómo evaluaremos?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775050076136-g64f85xpl</odePageId>
+          <odeBlockId>block-1775050078499-ft82h89oi</odeBlockId>
+          <odeIdeviceId>idevice-1775050078498-f4q2fg1le</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tu aprendizaje se evaluará de diferentes maneras:</p>
+<p>- Rúbrica del profesor<br />- Autoevaluación<br />- Coevaluación<br />Esto permite una evaluación más completa, ya que combinamos diferentes puntos de vista.</p>
+<p>Recuerda que <strong>no solo importa la nota, importa entender cómo mejorar</strong>...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775050078498-f4q2fg1le","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tu aprendizaje se evaluará de diferentes maneras:</p>\n<p>- Rúbrica del profesor<br />- Autoevaluación<br />- Coevaluación<br />Esto permite una evaluación más completa, ya que combinamos diferentes puntos de vista.</p>\n<p>Recuerda que <strong>no solo importa la nota, importa entender cómo mejorar</strong>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775042401323-8i4mljclp</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Protección de datos/derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos/derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos/derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775042401323-8i4mljclp</odePageId>
+      <odeBlockId>block-1775042924611-o567wxuf9</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775042401323-8i4mljclp</odePageId>
+          <odeBlockId>block-1775042924611-o567wxuf9</odeBlockId>
+          <odeIdeviceId>idevice-1775042924610-42lx6lhtc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.png" title="canva" width="800" height="2000" alt="canva" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775042924610-42lx6lhtc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/SEGURIDAD DIGITAL.png\" title=\"canva\" width=\"800\" height=\"2000\" alt=\"canva\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775043175197-6fqfv4d3r</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775043175197-6fqfv4d3r</odePageId>
+      <odeBlockId>block-1775043250014-6slu57igv</odeBlockId>
+      <blockName>Canva</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775043175197-6fqfv4d3r</odePageId>
+          <odeBlockId>block-1775043250014-6slu57igv</odeBlockId>
+          <odeIdeviceId>idevice-1775043250013-s6mhjnssh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del producto final del proyecto para el <strong>Día de la Poesía</strong>, se propone al alumnado el uso de la herramienta <strong>Canva</strong>.</p>
+<p><img src="{{context_path}}/content/resources/canva-scaled.jpg" title="canva" width="303" height="170" alt="canva" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>El objetivo principal es que el alumnado seleccione una poesía, la interprete y la transforme en un producto visual atractivo, integrando texto e imagen. Posteriormente, esos diseños se imprimirán y formarán parte de una actividad gamificada tipo yincana (las poesías se tirarán por la ventana para que caigan al patio), y allí deberán clasificar las poesías según su temática. El equipo ganador recitará las poesías que elijan y el ganador será aquel que el grupo considere que ha recitado mejor.</p>
+<p>La elección de Canva se justifica por los siguientes motivos:</p>
+<p><strong>Versatilidad</strong>:<strong> </strong>permite combinar texto, imágenes, tipografías y elementos visuales de forma sencilla, lo que favorece la creatividad del alumnado.<br /><strong>Facilidad de uso</strong>: su interfaz es intuitiva, lo que la hace adecuada para alumnado con un nivel medio de competencia digital. Además, es una herramienta bastante frecuente y ya han trabajado con ella en otras asignaturas.<br /><strong>Accesibilidad</strong>: es una herramienta gratuita en su versión educativa y se puede acceder a ella desde los ordenadores del centro, y en caso de que sea necesario, desde casa con otros dispositivos como tablets o teléfonos móviles.<br /><strong>Adaptación al contexto</strong>: el centro dispone de conexión a Internet y cuentas educativas, por lo que es muy sencilla la implementación en el aula.<br /><strong>Inclusión</strong>: ofrece plantillas prediseñadas que ayudan al alumnado con más dificultades, por lo que podemos adaptar según los niveles de competencia y complejidad en la tarea.<br /><strong>Fomento de la competencia digital</strong>: el alumnado no solo consume contenido, sino que lo crea de forma crítica y autónoma. Tendrá que elegir y justificar los motivos de sus elecciones.<br />En este proyecto trabajamos tanto la competencia lingüística (comprensión y expresión oral) como la digital y artística, por lo que conseguimos integrar distintas áreas en una actividad motivadora y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775043250013-s6mhjnssh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del producto final del proyecto para el <strong>Día de la Poesía</strong>, se propone al alumnado el uso de la herramienta <strong>Canva</strong>.</p>\n<p><img src=\"{{context_path}}/content/resources/canva-scaled.jpg\" title=\"canva\" width=\"303\" height=\"170\" alt=\"canva\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>El objetivo principal es que el alumnado seleccione una poesía, la interprete y la transforme en un producto visual atractivo, integrando texto e imagen. Posteriormente, esos diseños se imprimirán y formarán parte de una actividad gamificada tipo yincana (las poesías se tirarán por la ventana para que caigan al patio), y allí deberán clasificar las poesías según su temática. El equipo ganador recitará las poesías que elijan y el ganador será aquel que el grupo considere que ha recitado mejor.</p>\n<p>La elección de Canva se justifica por los siguientes motivos:</p>\n<p><strong>Versatilidad</strong>:<strong> </strong>permite combinar texto, imágenes, tipografías y elementos visuales de forma sencilla, lo que favorece la creatividad del alumnado.<br /><strong>Facilidad de uso</strong>: su interfaz es intuitiva, lo que la hace adecuada para alumnado con un nivel medio de competencia digital. Además, es una herramienta bastante frecuente y ya han trabajado con ella en otras asignaturas.<br /><strong>Accesibilidad</strong>: es una herramienta gratuita en su versión educativa y se puede acceder a ella desde los ordenadores del centro, y en caso de que sea necesario, desde casa con otros dispositivos como tablets o teléfonos móviles.<br /><strong>Adaptación al contexto</strong>: el centro dispone de conexión a Internet y cuentas educativas, por lo que es muy sencilla la implementación en el aula.<br /><strong>Inclusión</strong>: ofrece plantillas prediseñadas que ayudan al alumnado con más dificultades, por lo que podemos adaptar según los niveles de competencia y complejidad en la tarea.<br /><strong>Fomento de la competencia digital</strong>: el alumnado no solo consume contenido, sino que lo crea de forma crítica y autónoma. Tendrá que elegir y justificar los motivos de sus elecciones.<br />En este proyecto trabajamos tanto la competencia lingüística (comprensión y expresión oral) como la digital y artística, por lo que conseguimos integrar distintas áreas en una actividad motivadora y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775043581038-m9wc7b1yv</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Curación de contenido</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775043581038-m9wc7b1yv</odePageId>
+      <odeBlockId>block-1775043653909-zv6h5naa2</odeBlockId>
+      <blockName>Padlet y Symbaloo</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775043581038-m9wc7b1yv</odePageId>
+          <odeBlockId>block-1775043653909-zv6h5naa2</odeBlockId>
+          <odeIdeviceId>idevice-1775043653908-k9cjlx54q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Curación de contenido: el proceso</strong></p>
+<p>La curación de contenidos es un proceso fundamental en mi práctica docente, ya que permite transformar la ingente cantidad de información disponible en recursos que resulten útiles, accesibles y significativos para mi alumnado. Durante este proceso, selecciono, organizo y comparto contenidos que considero que realmente aportan valor al aprendizaje y los adapto a las características y necesidades de mi grupo.</p>
+<p>Para la situación de aprendizaje La poesía está en el aire, el l alumnado ha creado presentaciones sobre sus poesías favoritas utilizando Canva, las ha compartido de forma creativa (lanzándolas simbólicamente “al aire” desde una ventana que daba al patio), las ha clasificado por temáticas y, finalmente, las ha recitado en voz alta.</p>
+<p><strong> 2. Necesidades del alumnado</strong></p>
+<p>Puesto que estamos tratando una de las artes más significativas para la asignatura de LCyL, el alumnado necesita disponer de recursos que combinen visual, lo creativo y lo emocional, ya que la poesía puede resultar demasiado abstracta si no se trabaja de forma cercana y divertida. Por ello, he priorizado materiales que faciliten la comprensión de los textos poéticos, fomenten la expresión personal y desarrollen su competencia digital.</p>
+<p>Además, requieren herramientas intuitivas como Canva, que ya conocen, que le permitirán centrarse en el contenido sin que surjan a priori demasiadas dificultades técnicas.</p>
+<p><strong>3. Selección y filtrado de la información</strong></p>
+<p>Para llevar a cabo la curación de contenidos, he realizado una búsqueda activa de recursos digitales (tutoriales, vídeos, ejemplos y herramientas), aplicando criterios como la fiabilidad de la fuente, la adecuación al nivel del alumnado, la claridad en la explicación y, por último, pero no menos importante, el potencial motivador y creativo</p>
+<p>He descartado aquellos contenidos que me parecieron demasiado complejos o poco relevantes, y me he centrado en aquellos que creo que resultan útiles para el desarrollo del proyecto.</p>
+<p><strong> 4. Organización de la información</strong></p>
+<p>Una vez que he seleccionado los materiales, los he organizado en diferentes categorías para facilitar su uso: tutoriales de herramientas digitales, ejemplos de presentaciones poéticas, recursos sobre análisis y comprensión de poesía y materiales para la expresión oral y recitación</p>
+<p>Esta organización ha permitido a mi alumnado acceder de forma clara y estructurada a la información, evitándole sobrecargas y favoreciendo el aprendizaje autónomo que he de favorecer especialmente en este curso.</p>
+<p><strong> 5. Uso compartido del contenido</strong></p>
+<p>Para la primera parte de la actividad, he creado una recopilación en Padlet, en la que he reunido todos los recursos necesarios para el desarrollo del proyecto. Esta herramienta me ha permitido hacer una presentación visual, intuitiva y accesible para que el alumnado pueda consultar materiales en cualquier momento.</p>
+<p>Enlace: <a href="https://padlet.com/imarbar114/d-a-internacional-de-la-poes-a-s8cswzpelpcnnk3r" title="">PADLET</a></p>
+<p>En esta recopilación se incluye un tutorial de Canva muy sencillo, ejemplos de presentaciones, recursos sobre poesía (temáticas) y orientaciones para recitar adecuadamente.</p>
+<p>Para la segunda parte, he utilizado Symbaloo para crear una recopilación dirigida a otros docentes. En ella incluyo herramientas digitales que utilizo habitualmente en el aula para la creación de contenidos, la gestión de actividades y la evaluación.</p>
+<p>Enlace: <a href="https://www.symbaloo.com/shared/AAAABj7uZuwAA42ADtD0cw==" title="">SYMBALOO</a> </p>
+<p><strong>6. Evaluación y mejora</strong></p>
+<p>Se ha tenido en cuenta la importancia de evaluar la utilidad de los recursos seleccionados. Para ello, creo que es conveniente observar cómo el alumnado interactúa con ellos durante el desarrollo del proyecto, recojo su opinión e impresiones y valoro qué materiales han resultado más útiles o motivadores como referencia para proyectos futuros.</p>
+<p>Este proceso me permite ajustar y mejorar próximas curaciones de contenido, e incorporar nuevas herramientas y recursos que respondan mejor a sus necesidades.</p>
+<p><strong>7. Conclusión</strong></p>
+<p>En definitiva, la curación de contenidos no solo facilita el acceso a la información en gran medida, sino que también considero que enriquece el proceso de enseñanza-aprendizaje. Creo que, como docentes, debemos mantener una actitud proactiva en la búsqueda de nuevos repositorios y herramientas digitales para actualizar constantemente materiales y adaptarnos a un entorno educativo que cambia continuamente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775043653908-k9cjlx54q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Curación de contenido: el proceso</strong></p>\n<p>La curación de contenidos es un proceso fundamental en mi práctica docente, ya que permite transformar la ingente cantidad de información disponible en recursos que resulten útiles, accesibles y significativos para mi alumnado. Durante este proceso, selecciono, organizo y comparto contenidos que considero que realmente aportan valor al aprendizaje y los adapto a las características y necesidades de mi grupo.</p>\n<p>Para la situación de aprendizaje La poesía está en el aire, el l alumnado ha creado presentaciones sobre sus poesías favoritas utilizando Canva, las ha compartido de forma creativa (lanzándolas simbólicamente “al aire” desde una ventana que daba al patio), las ha clasificado por temáticas y, finalmente, las ha recitado en voz alta.</p>\n<p><strong> 2. Necesidades del alumnado</strong></p>\n<p>Puesto que estamos tratando una de las artes más significativas para la asignatura de LCyL, el alumnado necesita disponer de recursos que combinen visual, lo creativo y lo emocional, ya que la poesía puede resultar demasiado abstracta si no se trabaja de forma cercana y divertida. Por ello, he priorizado materiales que faciliten la comprensión de los textos poéticos, fomenten la expresión personal y desarrollen su competencia digital.</p>\n<p>Además, requieren herramientas intuitivas como Canva, que ya conocen, que le permitirán centrarse en el contenido sin que surjan a priori demasiadas dificultades técnicas.</p>\n<p><strong>3. Selección y filtrado de la información</strong></p>\n<p>Para llevar a cabo la curación de contenidos, he realizado una búsqueda activa de recursos digitales (tutoriales, vídeos, ejemplos y herramientas), aplicando criterios como la fiabilidad de la fuente, la adecuación al nivel del alumnado, la claridad en la explicación y, por último, pero no menos importante, el potencial motivador y creativo</p>\n<p>He descartado aquellos contenidos que me parecieron demasiado complejos o poco relevantes, y me he centrado en aquellos que creo que resultan útiles para el desarrollo del proyecto.</p>\n<p><strong> 4. Organización de la información</strong></p>\n<p>Una vez que he seleccionado los materiales, los he organizado en diferentes categorías para facilitar su uso: tutoriales de herramientas digitales, ejemplos de presentaciones poéticas, recursos sobre análisis y comprensión de poesía y materiales para la expresión oral y recitación</p>\n<p>Esta organización ha permitido a mi alumnado acceder de forma clara y estructurada a la información, evitándole sobrecargas y favoreciendo el aprendizaje autónomo que he de favorecer especialmente en este curso.</p>\n<p><strong> 5. Uso compartido del contenido</strong></p>\n<p>Para la primera parte de la actividad, he creado una recopilación en Padlet, en la que he reunido todos los recursos necesarios para el desarrollo del proyecto. Esta herramienta me ha permitido hacer una presentación visual, intuitiva y accesible para que el alumnado pueda consultar materiales en cualquier momento.</p>\n<p>Enlace: <a href=\"https://padlet.com/imarbar114/d-a-internacional-de-la-poes-a-s8cswzpelpcnnk3r\" title=\"\">PADLET</a></p>\n<p>En esta recopilación se incluye un tutorial de Canva muy sencillo, ejemplos de presentaciones, recursos sobre poesía (temáticas) y orientaciones para recitar adecuadamente.</p>\n<p>Para la segunda parte, he utilizado Symbaloo para crear una recopilación dirigida a otros docentes. En ella incluyo herramientas digitales que utilizo habitualmente en el aula para la creación de contenidos, la gestión de actividades y la evaluación.</p>\n<p>Enlace: <a href=\"https://www.symbaloo.com/shared/AAAABj7uZuwAA42ADtD0cw==\" title=\"\">SYMBALOO</a> </p>\n<p><strong>6. Evaluación y mejora</strong></p>\n<p>Se ha tenido en cuenta la importancia de evaluar la utilidad de los recursos seleccionados. Para ello, creo que es conveniente observar cómo el alumnado interactúa con ellos durante el desarrollo del proyecto, recojo su opinión e impresiones y valoro qué materiales han resultado más útiles o motivadores como referencia para proyectos futuros.</p>\n<p>Este proceso me permite ajustar y mejorar próximas curaciones de contenido, e incorporar nuevas herramientas y recursos que respondan mejor a sus necesidades.</p>\n<p><strong>7. Conclusión</strong></p>\n<p>En definitiva, la curación de contenidos no solo facilita el acceso a la información en gran medida, sino que también considero que enriquece el proceso de enseñanza-aprendizaje. Creo que, como docentes, debemos mantener una actitud proactiva en la búsqueda de nuevos repositorios y herramientas digitales para actualizar constantemente materiales y adaptarnos a un entorno educativo que cambia continuamente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775043834200-nvz1r9rt0</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Línea temporal de actividades/tareas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades/tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal de actividades/tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775043834200-nvz1r9rt0</odePageId>
+      <odeBlockId>block-1775043929484-qjv8wztco</odeBlockId>
+      <blockName>Secuenciación</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775043834200-nvz1r9rt0</odePageId>
+          <odeBlockId>block-1775043929484-qjv8wztco</odeBlockId>
+          <odeIdeviceId>idevice-1775043929480-54r6hvztu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1.png" title="1" width="1536" height="864" alt="1" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/2.png" title="2" width="1536" height="864" alt="2" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775043929480-54r6hvztu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" title=\"1\" width=\"1536\" height=\"864\" alt=\"1\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/2.png\" title=\"2\" width=\"1536\" height=\"864\" alt=\"2\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775044465235-u5tb4qyu9</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775044465235-u5tb4qyu9</odePageId>
+      <odeBlockId>block-1775047161185-khf8sj4de</odeBlockId>
+      <blockName>¿Qué tengo que hacer y qué se evalúa?</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775044465235-u5tb4qyu9</odePageId>
+          <odeBlockId>block-1775047161185-khf8sj4de</odeBlockId>
+          <odeIdeviceId>idevice-1775047161181-axhh14xg6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/screencapture-docs-google-document-d-1plI5bUXGm0mGlIKkkxsZxp2p6-VNxH1XSuvR3Tyhngs-edit-2026-04-01-14_35_38.png" title="ll" width="923" height="3356" alt="ll" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775047161181-axhh14xg6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/screencapture-docs-google-document-d-1plI5bUXGm0mGlIKkkxsZxp2p6-VNxH1XSuvR3Tyhngs-edit-2026-04-01-14_35_38.png\" title=\"ll\" width=\"923\" height=\"3356\" alt=\"ll\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775045330572-bcyzcoy5y</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775045330572-bcyzcoy5y</odePageId>
+      <odeBlockId>block-1775045443367-njaz7wup9</odeBlockId>
+      <blockName>¿Con qué se evalúa?</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775045330572-bcyzcoy5y</odePageId>
+          <odeBlockId>block-1775045443367-njaz7wup9</odeBlockId>
+          <odeIdeviceId>idevice-1775045443366-bcp2la932</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><span style="color: #b96ad9;"><strong>1. Rúbrica de desempeño</strong></span></h2>
+<p>A continuación vamos a crear una rúbrica de desempeño con el objetivo de evaluar los criterios del proyecto, entre los que destacan la comprensión lectora, la categorización de los poemas, la creación de un texto multimodal (Canva) y la expresión oral. Para ello, evaluaremos las siguientes tareas:</p>
+<p>- Lectura y comprensión del poema (individual, sesión 1)<br />- Creación de presentación visual del poema (individual, sesión 1)<br />- Recitado de poemas (individual, sesión 2)<br /></p>
+<p><img src="{{context_path}}/content/resources/paint2.png" title="kk" width="1011" height="725" alt="kk" /></p>
+<p><strong>Aplicación</strong><br />Se aplicará la rúbrica durante las sesiones de creación y recitado.<br />Se registrarán puntuaciones y observaciones.<br />Se entregará copia de la rúbrica al alumnado antes de cada actividad para fomentar la autoevaluación y claridad de expectativas (además, realizarán una actividad de autoevaluación)</p>
+<p><strong>Variables/Diversidad</strong></p>
+<p>Puesto que se trata de un grupo heterogéneo y de gran diversidad, se adaptará el contenido al alumnado con dificultades de comprensión o pocas habilidades digitales.<br />Los datos se digitalizarán y analizarán en Additio, que es la herramienta que suelo usar, para valorar el desempeño individual y grupal.</p>
+<h2><span style="color: #b96ad9;"><strong>2. Formulario de autoevaluación</strong></span></h2>
+<p>Hemos creado un formulario de autoevaluación para recoger la percepción del alumnado sobre su propio aprendizaje y el de sus compañeros con el objetivo de que realicen una reflexión crítica.</p>
+<p>Con este instrumento, valoraremos las siguientes tareas:</p>
+<p>- Reflexión sobre lectura y análisis de poemas (sesión 1)<br />- Evaluación del trabajo en equipo y recitado (sesión 2)</p>
+<p>Enlace: </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfv1yFs7Dl1V-EwfhwOgak0FPMB57J4ewXHEZIKoKQeSs0Mow/viewform?usp=publish-editor" title="">Cuestionario de autoevaluación/coevaluación</a>  </p>
+<p><strong>Aplicación</strong><br />- Se aplicará al finalizar la situación de aprendizaje.<br />- Se ha realizado con Google Forms.<br />- Se analizarán los resultados reforzar retroalimentación individual y grupal y para detectar dificultades de comprensión o de habilidades digitales.</p>
+<p><strong>Variables/Diversidad</strong></p>
+<p>- Se comprobará que exista coherencia entre la autoevaluación, coevaluación y la rúbrica para identificar posibles sesgos.<br />- Se anotará la información relevante en Additio en relación con el desempeño que ha percibido el alumno y el real.<br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775045443366-bcp2la932","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><span style=\"color: #b96ad9;\"><strong>1. Rúbrica de desempeño</strong></span></h2>\n<p>A continuación vamos a crear una rúbrica de desempeño con el objetivo de evaluar los criterios del proyecto, entre los que destacan la comprensión lectora, la categorización de los poemas, la creación de un texto multimodal (Canva) y la expresión oral. Para ello, evaluaremos las siguientes tareas:</p>\n<p>- Lectura y comprensión del poema (individual, sesión 1)<br />- Creación de presentación visual del poema (individual, sesión 1)<br />- Recitado de poemas (individual, sesión 2)<br /></p>\n<p><img src=\"{{context_path}}/content/resources/paint2.png\" title=\"kk\" width=\"1011\" height=\"725\" alt=\"kk\" /></p>\n<p><strong>Aplicación</strong><br />Se aplicará la rúbrica durante las sesiones de creación y recitado.<br />Se registrarán puntuaciones y observaciones.<br />Se entregará copia de la rúbrica al alumnado antes de cada actividad para fomentar la autoevaluación y claridad de expectativas (además, realizarán una actividad de autoevaluación)</p>\n<p><strong>Variables/Diversidad</strong></p>\n<p>Puesto que se trata de un grupo heterogéneo y de gran diversidad, se adaptará el contenido al alumnado con dificultades de comprensión o pocas habilidades digitales.<br />Los datos se digitalizarán y analizarán en Additio, que es la herramienta que suelo usar, para valorar el desempeño individual y grupal.</p>\n<h2><span style=\"color: #b96ad9;\"><strong>2. Formulario de autoevaluación</strong></span></h2>\n<p>Hemos creado un formulario de autoevaluación para recoger la percepción del alumnado sobre su propio aprendizaje y el de sus compañeros con el objetivo de que realicen una reflexión crítica.</p>\n<p>Con este instrumento, valoraremos las siguientes tareas:</p>\n<p>- Reflexión sobre lectura y análisis de poemas (sesión 1)<br />- Evaluación del trabajo en equipo y recitado (sesión 2)</p>\n<p>Enlace: </p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfv1yFs7Dl1V-EwfhwOgak0FPMB57J4ewXHEZIKoKQeSs0Mow/viewform?usp=publish-editor\" title=\"\">Cuestionario de autoevaluación/coevaluación</a>  </p>\n<p><strong>Aplicación</strong><br />- Se aplicará al finalizar la situación de aprendizaje.<br />- Se ha realizado con Google Forms.<br />- Se analizarán los resultados reforzar retroalimentación individual y grupal y para detectar dificultades de comprensión o de habilidades digitales.</p>\n<p><strong>Variables/Diversidad</strong></p>\n<p>- Se comprobará que exista coherencia entre la autoevaluación, coevaluación y la rúbrica para identificar posibles sesgos.<br />- Se anotará la información relevante en Additio en relación con el desempeño que ha percibido el alumno y el real.<br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775048326040-3odhc46hi</odePageId>
+  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775048326040-3odhc46hi</odePageId>
+      <odeBlockId>block-1775048331852-bzrirdp8y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775048326040-3odhc46hi</odePageId>
+          <odeBlockId>block-1775048331852-bzrirdp8y</odeBlockId>
+          <odeIdeviceId>idevice-1775048331851-i5j2z2x6m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Contar con una página denominada «Guía didáctica» que incluirá, al menos, el documento que relaciona las tareas del proyecto con los criterios de evaluación. Podrá completarse con las competencias específicas u otros elementos curriculares, así como con observaciones y recomendaciones que faciliten al resto del profesorado su aplicación en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775048331851-i5j2z2x6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Contar con una página denominada «Guía didáctica» que incluirá, al menos, el documento que relaciona las tareas del proyecto con los criterios de evaluación. Podrá completarse con las competencias específicas u otros elementos curriculares, así como con observaciones y recomendaciones que faciliten al resto del profesorado su aplicación en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775048272045-1zu4g3ths</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoría/descripción/licencia de uso</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría/descripción/licencia de uso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Autoría/descripción/licencia de uso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775048272045-1zu4g3ths</odePageId>
+      <odeBlockId>block-1775051017429-l8we3p1dj</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775048272045-1zu4g3ths</odePageId>
+          <odeBlockId>block-1775051017429-l8we3p1dj</odeBlockId>
+          <odeIdeviceId>idevice-1775051017428-qpswuszti</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">LA POESÍA ESTÁ EN EL AIRE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SdA para conmemorar el Día de la Poesía</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Iván Marín Barba</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: center;">Las imágenes utilizadas en este recurso son de uso libre.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
