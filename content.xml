@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260401191738S528GE</value>
+    <value>20260401194036A3BWJN</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260401191738YQ460M</value>
+    <value>20260401194036R37HO5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1346,64 +1346,6 @@ flota y respira, siempre en el aire estará&quot;.</blockName>
 <p><br /></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775045443366-bcp2la932","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><span style=\"color: #b96ad9;\"><strong>1. Rúbrica de desempeño</strong></span></h2>\n<p>A continuación vamos a crear una rúbrica de desempeño con el objetivo de evaluar los criterios del proyecto, entre los que destacan la comprensión lectora, la categorización de los poemas, la creación de un texto multimodal (Canva) y la expresión oral. Para ello, evaluaremos las siguientes tareas:</p>\n<p>- Lectura y comprensión del poema (individual, sesión 1)<br />- Creación de presentación visual del poema (individual, sesión 1)<br />- Recitado de poemas (individual, sesión 2)<br /></p>\n<p><img src=\"{{context_path}}/content/resources/paint2.png\" title=\"kk\" width=\"1011\" height=\"725\" alt=\"kk\" /></p>\n<p><strong>Aplicación</strong><br />Se aplicará la rúbrica durante las sesiones de creación y recitado.<br />Se registrarán puntuaciones y observaciones.<br />Se entregará copia de la rúbrica al alumnado antes de cada actividad para fomentar la autoevaluación y claridad de expectativas (además, realizarán una actividad de autoevaluación)</p>\n<p><strong>Variables/Diversidad</strong></p>\n<p>Puesto que se trata de un grupo heterogéneo y de gran diversidad, se adaptará el contenido al alumnado con dificultades de comprensión o pocas habilidades digitales.<br />Los datos se digitalizarán y analizarán en Additio, que es la herramienta que suelo usar, para valorar el desempeño individual y grupal.</p>\n<h2><span style=\"color: #b96ad9;\"><strong>2. Formulario de autoevaluación</strong></span></h2>\n<p>Hemos creado un formulario de autoevaluación para recoger la percepción del alumnado sobre su propio aprendizaje y el de sus compañeros con el objetivo de que realicen una reflexión crítica.</p>\n<p>Con este instrumento, valoraremos las siguientes tareas:</p>\n<p>- Reflexión sobre lectura y análisis de poemas (sesión 1)<br />- Evaluación del trabajo en equipo y recitado (sesión 2)</p>\n<p>Enlace: </p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfv1yFs7Dl1V-EwfhwOgak0FPMB57J4ewXHEZIKoKQeSs0Mow/viewform?usp=publish-editor\" title=\"\">Cuestionario de autoevaluación/coevaluación</a>  </p>\n<p><strong>Aplicación</strong><br />- Se aplicará al finalizar la situación de aprendizaje.<br />- Se ha realizado con Google Forms.<br />- Se analizarán los resultados reforzar retroalimentación individual y grupal y para detectar dificultades de comprensión o de habilidades digitales.</p>\n<p><strong>Variables/Diversidad</strong></p>\n<p>- Se comprobará que exista coherencia entre la autoevaluación, coevaluación y la rúbrica para identificar posibles sesgos.<br />- Se anotará la información relevante en Additio en relación con el desempeño que ha percibido el alumno y el real.<br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-1775048326040-3odhc46hi</odePageId>
-  <odeParentPageId>c6f4a149-8170-49f1-94c3-e570dc3a4d11</odeParentPageId>
-  <pageName>Guía didáctica</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Guía didáctica</value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-1775048326040-3odhc46hi</odePageId>
-      <odeBlockId>block-1775048331852-bzrirdp8y</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-1775048326040-3odhc46hi</odePageId>
-          <odeBlockId>block-1775048331852-bzrirdp8y</odeBlockId>
-          <odeIdeviceId>idevice-1775048331851-i5j2z2x6m</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Contar con una página denominada «Guía didáctica» que incluirá, al menos, el documento que relaciona las tareas del proyecto con los criterios de evaluación. Podrá completarse con las competencias específicas u otros elementos curriculares, así como con observaciones y recomendaciones que faciliten al resto del profesorado su aplicación en el aula.</p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775048331851-i5j2z2x6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Contar con una página denominada «Guía didáctica» que incluirá, al menos, el documento que relaciona las tareas del proyecto con los criterios de evaluación. Podrá completarse con las competencias específicas u otros elementos curriculares, así como con observaciones y recomendaciones que faciliten al resto del profesorado su aplicación en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>

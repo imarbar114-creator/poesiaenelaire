@@ -24,7 +24,6 @@ window.__ELPX_MANIFEST__={
     "html/linea-temporal-de-actividadestareas.html",
     "html/guia-didactica.html",
     "html/instrumentos-de-evaluacion.html",
-    "html/guia-didactica-2.html",
     "html/autoriadescripcionlicencia-de-uso.html",
     "content.xml",
     "content/css/base.css",
